@@ -1,4 +1,4 @@
-angular-slick
+angular-slick1
 =============
 
 Angular directive for [slick](https://github.com/kenwheeler/slick/) jquery carousel. Demo is [here](http://vasyabigi.github.io/angular-slick/).
